@@ -18,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lexo-dat&show_icons=true&locale=en&layout=compact" alt="lexo-dat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lexo-dat&show_icons=true&locale=en" alt="lexo-dat" /></p>
