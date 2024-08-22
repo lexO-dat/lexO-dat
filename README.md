@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lexO-dat</h1>
 <h3 align="center">A student of computer science from Chile.</h3>
 
-- 🌱 I’m currently learning **Golang and Docker**
+- 🌱 I’m currently learning **AI and Golang**
 
 - 👨‍💻 All of my projects are available at - [portfolio](https://lucasabello.vercel.app/)
 
