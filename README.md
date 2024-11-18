@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lexO-dat</h1>
 <h3 align="center">A student of computer science from Chile 🇨🇱</h3>
 
-- 🌱 I’m currently learning **AI and Golang**
+- 🌱 I’m currently learning **Synthetic Biology and AI**
 
 - 👨‍💻 All of my projects are available at [lucasabello.vercel.app](lucasabello.vercel.app)
 
